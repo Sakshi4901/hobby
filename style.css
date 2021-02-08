@@ -1,0 +1,79 @@
+body{ 
+margin: 0;
+	padding-top: 500px;
+	text-align: center;
+	background-color: crimson;
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" rel="stylesheet">
+}
+.READ{
+padding-top: 50px;
+	width: 200px;
+	margin-bottom: 50px;
+	border-radius: 50%;6
+
+}
+#WELCOME{
+	position:absolute;
+	height: 500px;
+	color: darkorange;
+	display: table;
+	height:100px;
+		width: 100%;
+	z-index: 9;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0
+	
+}
+#bio{
+	padding: 100px;
+	font-size: 30px;
+}
+
+.para{
+	height: 6px;
+	width: 70px;
+	margin: 8px auto;
+	
+	
+}
+p{
+max-width: 450px;
+	margin: 25px auto;
+	font-size:20px;
+	line-height: 1.3;
+	
+}
+
+.menu{
+	list-style: none;
+	font-family: fantasy;
+	position: absolute;
+	top: 10px;
+	right: 30px;
+	z-index: 10px;
+	cursor: pointer;
+	
+	
+	
+}
+.links{
+	float: left;
+		color: darkmagenta;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: monospace;
+	font-size: 20px;	
+}
+
+.links:hover{
+	background-color: cornflowerblue
+}
+
+
+
